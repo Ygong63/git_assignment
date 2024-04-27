@@ -30,3 +30,10 @@ Can use git without Github, but you cannot use GitHub without Git.
 f. What does git diff do?
 git difftool is a Git command that allows you to compare and edit files between revisions using common diff tools. git difftool is a frontend to git diff and accepts the same options and arguments.
 
+g. What is the main branch?
+The main branch is the original thread of code for a project's codebase. The main branch of a project is considered the default branch. 
+
+h. Besides our initial commit if it is a new repository, should we directly push our changes directly into the main branch?
+
+No 
+Working directly in the main branch can make it hard to review changes and track issues in the codebase.
