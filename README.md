@@ -21,3 +21,12 @@ In the search field, start typing the name of person you want to invite, then cl
 Click Add NAME to REPOSITORY.
 
 The user will receive an email inviting them to the repository. Once they accept your invitation, they will have collaborator access to your repository.
+
+e. What is the difference between git and GitHub?
+Git is open source software maintained by Linux, while Microsoft owns GitHub. Git is an open-source platform – free to use, modify, and distribute. GitHub is a web-based hosting service for git repositories.
+
+Can use git without Github, but you cannot use GitHub without Git.
+
+f. What does git diff do?
+git difftool is a Git command that allows you to compare and edit files between revisions using common diff tools. git difftool is a frontend to git diff and accepts the same options and arguments.
+
