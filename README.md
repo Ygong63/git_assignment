@@ -6,7 +6,7 @@ b. What is a pull request?
 merge a set of changes from one branch into another
 
 c. How do I open up a pull request?
-git pull
+On the GitHub.com, navigate to the main page of the repository. In the "Branch" menu, choose the branch that contains mycommits. Once I push the changes to my repo, the Compare & pull request button will appear in GitHub. A pull request can be opened by clicking the Create pull request button.
 
 d. Give me a step by step guide on how to add someone to your repository.
 
